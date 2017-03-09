@@ -1,0 +1,6 @@
+c:\users\ljv\documents\visual studio 2015\Projects\Output_all_divisions_of_number\Output_all_divisions_of_number\bin\Debug\Output_all_divisions_of_number.exe.config
+c:\users\ljv\documents\visual studio 2015\Projects\Output_all_divisions_of_number\Output_all_divisions_of_number\obj\Debug\Output_all_divisions_of_number.csprojResolveAssemblyReference.cache
+c:\users\ljv\documents\visual studio 2015\Projects\Output_all_divisions_of_number\Output_all_divisions_of_number\bin\Debug\Output_all_divisions_of_number.exe
+c:\users\ljv\documents\visual studio 2015\Projects\Output_all_divisions_of_number\Output_all_divisions_of_number\bin\Debug\Output_all_divisions_of_number.pdb
+c:\users\ljv\documents\visual studio 2015\Projects\Output_all_divisions_of_number\Output_all_divisions_of_number\obj\Debug\Output_all_divisions_of_number.exe
+c:\users\ljv\documents\visual studio 2015\Projects\Output_all_divisions_of_number\Output_all_divisions_of_number\obj\Debug\Output_all_divisions_of_number.pdb
