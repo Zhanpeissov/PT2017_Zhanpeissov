@@ -1,0 +1,5 @@
+c:\users\ljv\documents\visual studio 2015\Projects\CommonDivisors\CommonDivisors\bin\Debug\CommonDivisors.exe.config
+c:\users\ljv\documents\visual studio 2015\Projects\CommonDivisors\CommonDivisors\bin\Debug\CommonDivisors.exe
+c:\users\ljv\documents\visual studio 2015\Projects\CommonDivisors\CommonDivisors\bin\Debug\CommonDivisors.pdb
+c:\users\ljv\documents\visual studio 2015\Projects\CommonDivisors\CommonDivisors\obj\Debug\CommonDivisors.exe
+c:\users\ljv\documents\visual studio 2015\Projects\CommonDivisors\CommonDivisors\obj\Debug\CommonDivisors.pdb
